@@ -34,6 +34,7 @@ public class Solution02 {
     // private access modifier for use within 'solution02' class
     // taking 'name' from 'in.nextLine();' and passing it into output statement
     // returning value will be passed to 'printOutput'
+    // use of built in java function for counting string length
     private String generateOutputString(String string) {
         int s = string.length();
         return String.format("%s has %d characters.", string, s);
