@@ -20,16 +20,7 @@ public class Solution02 {
         String outputString = app.generateOutputString(string);
         app.printOutput(outputString);
 
-        // will keep all code in main method
-        // initializing string with scanner input
-        // print statement for the console
 
-        // System.out.print("What is the input string? ");
-        // String string = scanner.nextLine();
-
-       //  int s = string.length();
-
-        // System.out.println( string + " has " + s + " characters.");
 
     }
     // method used to print output string to console
